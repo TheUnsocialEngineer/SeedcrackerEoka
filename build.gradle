@@ -145,12 +145,12 @@ publishing {
 		}
 
 		mod(MavenPublication) {
-			artifactId 'seedcrackerx'
+			artifactId 'seedcrackereoka'
 			artifact(remapJar) {
 				builtBy remapJar
 			}
 			pom configurePom
-			pom.name = 'seedcrackerx'
+			pom.name = 'seedcrackereoka'
 			pom.description = 'The seedcrackerx mod JAR'
 		}
 		api(MavenPublication) {

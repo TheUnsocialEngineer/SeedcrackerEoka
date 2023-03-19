@@ -7,7 +7,7 @@ import net.minecraft.util.Util;
 
 public class DatabaseCommand extends ClientCommand {
 
-    public static String databaseURL = "https://docs.google.com/spreadsheets/d/1tuQiE-0leW88em9OHbZnH-RFNhVqgoHhIt9WQbeqqWw/edit?usp=sharing";
+    public static String databaseURL = "http://localhost:5000";
 
     @Override
     public String getName() {

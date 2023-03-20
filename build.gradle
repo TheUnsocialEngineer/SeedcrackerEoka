@@ -141,6 +141,10 @@ publishing {
 					name = 'Kap'
 					id = 'KaptainWutax'
 				}
+				developer {
+					name = 'Magpie'
+					id = 'Angry Birds- Magpie#4359'
+				}
 			}
 		}
 
